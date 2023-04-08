@@ -68,7 +68,7 @@
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#where-this-can-be-used?">Where this can be used?</a></li>
+    <li><a href="#where-this-can-be-used">Where this can be used</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
@@ -143,7 +143,7 @@ _Follow these steps to get the software running on the local machine._
 
 
 <!-- USAGE EXAMPLES -->
-## Where this can be used?
+## Where this can be used
 
 1. To develop a system to track and keep a record of potential threats which can be trespassers, robbers, and unwanted vehicles, with the flexibility to reproduce the data as and when required.
 2. Database of day-to-day college activities such as surveillance during exams, recording attendance, and using motion sensors to monitor behavioral changes of students in the class.
