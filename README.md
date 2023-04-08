@@ -18,7 +18,8 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![collaborators][collaborators-shield]][collaborators-url]
+
+[![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
@@ -70,7 +71,7 @@
     </li>
     <li><a href="#where-this-can-be-used">Where this can be used</a></li>
     <li><a href="#license">License</a></li>
-    <li><a href="#contributors">Contributors</a></li>
+    <li><a href="#collaborators">Collaborators</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
@@ -166,8 +167,8 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 
 
-<!-- CONTRIBUTORS -->
-## Contributors
+<!-- COLLABORATORS -->
+## Collaboratos
 
 Gaurav Bhardwaj - gaurav290802@gmail.com
 
@@ -199,23 +200,15 @@ Website Link:
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[collaborators-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
-[collaborators-url]: https://github.com/gaurav-bhardwaj29/hackfest-2023/settings/access
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/gaurav-bhardwaj29/hackfest-2023.svg?style=for-the-badge
+[contributors-url]: https://github.com/gaurav-bhardwaj29/hackfest-2023/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/gaurav-bhardwaj29/hackfest-2023.svg?style=for-the-badge
 [forks-url]: https://github.com/gaurav-bhardwaj29/hackfest-2023/forks
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
-[stars-url]: https://github.com/othneildrew/Best-README-Template/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/gaurav-bhardwaj29/hackfest-2023.svg?style=for-the-badge
 [issues-url]: https://github.com/gaurav-bhardwaj29/hackfest-2023/issues
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
+[license-shield]: https://img.shields.io/github/license/gaurav-bhardwaj29/hackfest-2023.svg?style=for-the-badge
 [license-url]: https://github.com/gaurav-bhardwaj29/hackfest-2023/blob/main/LICENSE
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/othneildrew
 [product-screenshot]: images/screenshot.png
-[html.com]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
-[html-url]: https://html.com/
-[React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-[React-url]: https://reactjs.org/
 [Python.org]: https://img.shields.io/badge/Python-35495E?style=for-the-badge&logo=python&logoColor=yellow
 [Python-url]: https://www.python.org/
 [OpenCV.org]: https://img.shields.io/badge/openCV-DD0031?style=for-the-badge&logo=openCV&logoColor=green
