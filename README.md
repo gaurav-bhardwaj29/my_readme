@@ -169,13 +169,13 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTRIBUTORS -->
 ## Contributors
 
-Gaurav Bhardwaj - [@your_twitter](https://twitter.com/your_username) - gaurav290802@gmail.com
+Gaurav Bhardwaj - gaurav290802@gmail.com
 
-Aman Agarwal - 
+Aman Agarwal - 21je0080@iitism.ac.in
 
-Ananay Garg - 
+Ananay Garg - ananaygarg777@gmail.com
 
-Deepak Maan - 
+Deepak Maan - 21je0287@iitism.ac.in
 
 Project Link: [https://github.com/your_username/repo_name](https://github.com/gaurav-bhardwaj29/hackfest-2023)
 
