@@ -169,9 +169,17 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTRIBUTORS -->
 ## Contributors
 
-Gaurav Bhardwaj - [@your_twitter](https://twitter.com/your_username) - email@example.com
+Gaurav Bhardwaj - [@your_twitter](https://twitter.com/your_username) - gaurav290802@gmail.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Aman Agarwal - 
+
+Ananay Garg - 
+
+Deepak Maan - 
+
+Project Link: [https://github.com/your_username/repo_name](https://github.com/gaurav-bhardwaj29/hackfest-2023)
+
+Website Link: 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
