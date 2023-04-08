@@ -33,10 +33,10 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">SecureIT</h3>
 
   <p align="center">
-    Our project for Hackfest 2023
+    AI Survellience System
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the webpage »</strong></a>
     <br />
